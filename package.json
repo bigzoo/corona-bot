@@ -1,0 +1,16 @@
+{
+  "name": "corona-slack-bot",
+  "author": "Bigzoo <chris@bigzoo.me>",
+  "version": "0.0.1",
+  "description": "Instant Corona stats in Slack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigzoo/corona-bot.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigzoo/corona-bot/issues"
+  },
+  "homepage": "https://github.com/bigzoo/corona-bot#readme"
+}
